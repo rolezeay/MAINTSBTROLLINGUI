@@ -529,7 +529,7 @@ Tab:AddTextbox({
 })
 
 Tab:AddTextbox({
-	Name = "HipHeight (Default = 1.35)",
+	Name = "HipHeight (Default = 0)",
 	Default = "",
 	TextDisappear = true,
 	Callback = function(Value)
